@@ -7,7 +7,7 @@
 The Ghosts are so strong… they have their own components! Create a `Light` component to even the playing field.
 
 1. Create a `Light` component.
-2. Remove the `img` tag in the `Bedroom`, `Kitchen`, `Bathroom`, and `Closet`, render the `Light` component instead.
+2. Remove the `img` tag from the `Bedroom`, `Kitchen`, `Bathroom`, and `Closet`, and render the `Light` component instead.
 3. The `Light` component should return the exact same `img` tag it's replacing.
 4. Pass the `Light` component any props (data from the parent) it needs.
 
