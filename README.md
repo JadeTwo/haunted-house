@@ -7,8 +7,8 @@
 The Ghosts are so strong… they have their own components! Create a `Light` component to even the playing field.
 
 1. Create a `Light` component.
-2. Instead of the `img` tag in the `Bedroom`, `Kitchen`, `Bathroom`, and `Closet`, render the `Light` component instead.
-3. The `Light` component should return the `img` tag it's replacing.
+2. Remove the `img` tag in the `Bedroom`, `Kitchen`, `Bathroom`, and `Closet`, render the `Light` component instead.
+3. The `Light` component should return the exact same `img` tag it's replacing.
 4. Pass the `Light` component any props (data from the parent) it needs.
 
 > **Progress Check:** Every room light should still be functional. For now, the lights should randomly turn off.
